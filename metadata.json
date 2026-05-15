@@ -1,0 +1,9 @@
+{
+  "name": "TikTok Live Switcher & Streamer",
+  "description": "Multi-source live streaming application with 9:16 and 16:9 support, allowing PCs to switch between mobile camera sources via WebRTC.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
